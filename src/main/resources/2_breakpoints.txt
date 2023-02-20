@@ -1,4 +1,13 @@
 Advanced breakpoints
 
-- Options
-    - Logging (show shift-gutter clicking as well)
+- Line
+- Right click breakpoint
+- Enabled
+- Suspend
+- Conditional breakpoint
+- Logging
+    - story about mistakes
+    - log variable with clicks
+    - improve with selecting + shift click
+ - Moving breakpoints
+ - Restoring breakpoints

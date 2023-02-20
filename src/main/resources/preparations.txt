@@ -1,11 +1,19 @@
-- IntelliJ in light mode
+- Grab some water
+
 - Laptop on focus mode
+
+- IntelliJ in light mode
+- IntelliJ in presentation mode
+
+- Disable AI coding assistant plugins (and restart!)
+
 - Clear all breakpoints (in the popup!!!)
 - Remove remote debugging configurations (press OK!)
+
+- Open the first three "slides" (0, 1 & HelloWorld.java)
+- Put the cursors on the right positions
+
 - Zoom in in the terminal
 - Start the jar in a terminal (java -cp target/classes devoxxfr.HelloWorld) -> check if it says Hello!
-- Grab some water
+
 - Explain WHY hot code swapping + dropping frames & remote debugging is useful!!!
-- Open the first three "slides" (0, 1 & HelloWorld.java)
-- IntelliJ in presentation mode
-- Put the cursors on the right positions

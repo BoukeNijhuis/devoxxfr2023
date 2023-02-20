@@ -1,6 +1,7 @@
 Overview
 
 - Breakpoints
+- Stepping
 - Evaluating expressions
 - Hot code swapping
 - Remote debugging
