@@ -6,6 +6,7 @@
 - IntelliJ in presentation mode
 
 - Disable AI coding assistant plugins (and restart!)
+- Test the plugin
 
 - Clear all breakpoints (in the popup!!!)
 - Remove remote debugging configurations (press OK!)

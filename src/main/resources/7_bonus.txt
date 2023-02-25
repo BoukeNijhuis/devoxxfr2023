@@ -2,4 +2,3 @@ Bonus
 
 - Exception breakpoint
 - Method breakpoint
-- Field breakpoint

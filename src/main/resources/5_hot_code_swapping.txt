@@ -1,6 +1,5 @@
 Hot code swapping
 
-- Drop frame
 - Change code
 - Reload Changed Classes
 - Limitations

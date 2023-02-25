@@ -9,5 +9,6 @@ Advanced breakpoints
     - story about mistakes
     - log variable with clicks
     - improve with selecting + shift click
+    - show plugin usage
  - Moving breakpoints
  - Restoring breakpoints
