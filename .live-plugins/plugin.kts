@@ -29,7 +29,7 @@ registerAction(
     }
 
     // always toggle (even if there is no selection)
-    val types = XBreakpointUtil.getAvailableLineBreakpointTypes(project, currentPosition, editor)
+    val types = XBreakpointUtil.getAvailableLineBreakpointTypes(project, position, editor)
     val breakpoint =
         XDebuggerUtilImpl.toggleAndReturnLineBreakpoint(project, types, position, false, editor, true)
 
