@@ -28,6 +28,11 @@ registerAction(
         position = nextLinePosition
     }
 
+    // increase the line number if the determined position does not support a breakpoint
+    while (!XDebuggerUtilImpl().canPutBreakpointAt(project, currentFile, position.line)) {
+        position = XSourcePositionImpl.create(currentFile, position.line + 1)
+    }
+
     // always toggle (even if there is no selection)
     val types = XBreakpointUtil.getAvailableLineBreakpointTypes(project, position, editor)
     val breakpoint =
