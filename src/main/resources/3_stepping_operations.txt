@@ -1,4 +1,4 @@
-Stepping
+Stepping operations
 
 - Step Over
 - Step Into / Out
